@@ -1,0 +1,2 @@
+Function run ¹ 1 time of function running 0:00:13.097439
+Function run ¹ 2 time of function running 0:00:00.920546

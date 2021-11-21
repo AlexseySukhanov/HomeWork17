@@ -1,0 +1,9 @@
+5 member of Fibonacci sequence is 3 - 2021-11-19 15:29:04.367472
+7 member of Fibonacci sequence is 8 - 2021-11-19 15:29:04.369472
+9 member of Fibonacci sequence is 21 - 2021-11-19 15:29:04.370482
+5 member of Fibonacci sequence is 3 - 2021-11-19 15:30:14.759468
+7 member of Fibonacci sequence is 8 - 2021-11-19 15:30:14.761468
+9 member of Fibonacci sequence is 21 - 2021-11-19 15:30:14.763468
+5 member of Fibonacci sequence is 3 - 2021-11-19 17:09:47.820080
+7 member of Fibonacci sequence is 8 - 2021-11-19 17:09:47.882608
+9 member of Fibonacci sequence is 21 - 2021-11-19 17:09:47.882608
