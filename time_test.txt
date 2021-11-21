@@ -1,2 +1,11 @@
-Function run ¹ 1 time of function running 0:00:13.097439
-Function run ¹ 2 time of function running 0:00:00.920546
+Function fibo run ¹ 1 time of function running 0:00:01.013257
+Function fibo run ¹ 2 time of function running 0:00:01.006275
+Function fibo run ¹ 3 time of function running 0:00:01.004117
+Function fibo run ¹ 4 time of function running 0:00:01.011856
+Function fibo run ¹ 5 time of function running 0:00:01.000053
+Function fibo run ¹ 6 time of function running 0:00:01.013784
+Function fibo run ¹ 7 time of function running 0:00:01.013763
+Function fibo run ¹ 8 time of function running 0:00:01.013604
+Function fibo run ¹ 9 time of function running 0:00:01.013978
+Function fibo run ¹ 10 time of function running 0:00:01.013058
+Total running time is 0:00:10.103745
